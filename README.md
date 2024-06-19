@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **dart, java**
 
-<h3 align="left">Connect with me: https: //docs.google.com/presentation/d/1MZ28XfBwb-QJhpkVIl1kFsDLfIkfmVpf/edit?usp=sharing&ouid=113461481662840876527&rtpof=true&sd=true</h3>
+<h3 align="left">Connect with me: https://drive.google.com/drive/folders/1Aj2R3uUIPujcEKlsC6pJY-rtirv9Qv76?usp=sharing</h3>
 <p align="left">
 <a href="https://twitter.com/nurhatizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nurhatizm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nurhat-acar-b4bba2259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nurhat-acar-b4bba2259" height="30" width="40" /></a>
